@@ -1,0 +1,5 @@
+[project]
+name = "minerva-pilot-sandbox"
+version = "0.1.0"
+description = "Tiny Python package used for Minerva adoption evidence"
+requires-python = ">=3.9"
